@@ -1,0 +1,1 @@
+Learned basic networking commands: ping, ipconfig, nslookup, traceroute
