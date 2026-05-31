@@ -1,0 +1,16 @@
+Day 06 - Docker Basics
+
+What is Docker?
+Docker is a containerization platform that allows applications to run consistently across different environments.
+
+Benefits:
+- Lightweight
+- Portable
+- Fast deployment
+- Easy scalability
+
+Common Commands:
+docker --version
+docker images
+docker ps
+docker run hello-world

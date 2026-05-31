@@ -1,1 +1,41 @@
+<<<<<<< HEAD
 Learned basic networking commands: ping, ipconfig, nslookup, traceroute
+=======
+Day 04 - Networking Basics
+
+1. ping
+Checks connectivity to a host.
+
+Example:
+ping google.com
+
+2. ipconfig (Windows)
+Displays IP configuration.
+
+Example:
+ipconfig
+
+3. nslookup
+Finds DNS information.
+
+Example:
+nslookup google.com
+
+4. tracert (Windows)
+Shows packet route to destination.
+
+Example:
+tracert google.com
+
+5. netstat
+Displays active network connections.
+
+Example:
+netstat -an
+
+6. hostname
+Displays system hostname.
+
+Example:
+hostname
+>>>>>>> ca40c63 (Added Day 04 networking basics notes)
