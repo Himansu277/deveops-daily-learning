@@ -1,0 +1,18 @@
+Day 08 - Docker Images and Containers
+
+Docker Image:
+- Blueprint for creating containers.
+- Read-only template.
+
+Docker Container:
+- Running instance of an image.
+
+Commands:
+
+docker images
+docker ps
+docker ps -a
+docker run nginx
+docker stop <container_id>
+docker rm <container_id>
+docker rmi <image_id>
