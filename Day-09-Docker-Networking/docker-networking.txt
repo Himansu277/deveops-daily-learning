@@ -1,0 +1,20 @@
+Day 09 - Docker Networking
+
+Docker networking allows containers to communicate with each other and external systems.
+
+Common Commands:
+
+docker network ls
+docker network create my-network
+docker network inspect my-network
+docker run --network my-network nginx
+
+Network Types:
+- bridge
+- host
+- none
+
+Benefits:
+- Container communication
+- Isolation
+- Service discovery
